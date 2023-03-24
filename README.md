@@ -1,2 +1,2 @@
-# GPT3-jsm
+# GPT3-gps
  Modern React App
